@@ -2,7 +2,7 @@
 ### 11/30/2022
 ### Foundations of Databases and SQL Programming
 ### Assignment 07
-### GitHub Repository: [https://github.com/morr3/DBFoundations-Module07]
+### GitHub Repository: https://github.com/morr3/DBFoundations-Module07
 
 # Introduction
 This writeup will cover different types of SQL user-defined functions and some of their use cases. 
